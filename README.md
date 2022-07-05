@@ -1,5 +1,5 @@
 # Real_Estate_Management_System
-# If You Need Code Email Me decentaman09@gmail.com subject :Realestatecode
+# If You Want to Need Codes Email Me decentaman09@gmail.com subject :Realestatecode
 # Technologies used 
 •	Microsoft visual studio (HTML,CSS, Bootstrap, Java script, PHP)
 •	MYSQL server(Xampp)
