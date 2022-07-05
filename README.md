@@ -1,11 +1,9 @@
 # Real_Estate_Management_System
-# Important 
 # Technologies used 
 •	Microsoft visual studio (HTML,CSS, Bootstrap, Java script, PHP)
 •	MYSQL server(Xampp)
 
  # Server Requirements 
-
 •	PHP version 8.1 or newer.
 •	MySQL (6.1+) MySQL (6.1+),MySQL.
 •	Open SSL PHP Extension.
@@ -14,7 +12,7 @@
 •	XML PHP Extension.
 •	[XML PHP Extension.](https://www.apachefriends.org/download.html)
 
-# Some ScreenShots 
+# Some screenshot 
 ![image](https://user-images.githubusercontent.com/81174648/177279491-9377c32e-0cc0-43cf-87a6-05d0bfd8ec75.png)
 ![image](https://user-images.githubusercontent.com/81174648/177279535-4f67333f-d903-42cd-b7a0-214d9b0c539f.png)
 
