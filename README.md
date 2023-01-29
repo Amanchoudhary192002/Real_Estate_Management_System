@@ -1,4 +1,4 @@
-# Real_Estate_Management_System
+# Real_Estate_Management_System in a College Project
 # If You Want to Need Codes Email Me decentaman09@gmail.com subject :Realestatecode
 # Technologies used 
 •	Microsoft visual studio (HTML,CSS, Bootstrap, Java script, PHP)
